@@ -97,13 +97,6 @@
 
 <img width="1159" alt="스크린샷 2025-05-31 오후 5 03 57" src="https://github.com/user-attachments/assets/ec7db54e-8670-4add-8d79-5883fe961875" />
 
----
-
-### 📽 발표영상
-
-<a href="https://www.youtube.com/watch?v=FKi4mlXp1aY" target="_blank">
-  <img src="https://img.youtube.com/vi/FKi4mlXp1aY/0.jpg" alt="Presentation Video Thumbnail" width="600"/>
-</a>
 
 ---
 <!--
