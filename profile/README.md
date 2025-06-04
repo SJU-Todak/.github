@@ -72,6 +72,13 @@
 ---
 
 ###  🖼️ 주요 기능 시연 
+#### 랜딩 페이지
+
+
+https://github.com/user-attachments/assets/1b5c2882-dcbb-4a82-9714-a6a722a7cf99
+
+
+
 #### 🗣️ 1. 상담 기능 
 <img width="700" alt="스크린샷 2025-05-31 오후 5 07 00" src="https://github.com/user-attachments/assets/b889b909-a3e6-401e-9a0c-35ace46923ef" />  
 
