@@ -18,7 +18,7 @@
   <tr>
     <td align="center"><img src="https://github.com/p-garden.png" width="100px;" alt="박정원"/><br /><sub><b>박정원</b></sub><br /><a href="https://github.com/p-garden">@p-garden</a><br />AI<br/>AI Server&AI DB</td>
     <td align="center"><img src="https://github.com/rudals6151.png" width="100px;" alt="김경민"/><br /><sub><b>김경민</b></sub><br /><a href="https://github.com/rudals6151">@rudals6151</a><br />AI<br/>Chatbot Dev</td>
-    <td align="center"><img src="https://github.com/ksunj67.png" width="100px;" alt="김선재"/><br /><sub><b>김선재</b></sub><br /><a href="https://github.com/ksunj67">@ksunj67</a><br />AI<br/>Service Planning & Prompts Engineering</td>
+    <td align="center"><img src="https://github.com/ksunj67.png" width="100px;" alt="김선재"/><br /><sub><b>김선재</b></sub><br /><a href="https://github.com/ksunj67">@ksunj67</a><br />AI<br/>Planning & Prompt Eng</td>
     <td align="center"><img src="https://github.com/Ss0Mae.png" width="100px;" alt="조성민"/><br /><sub><b>조성민</b></sub><br /><a href="https://github.com/Ss0Mae">@Ss0Mae</a><br />Backend
     <td align="center"><img src="https://github.com/sehxxnee.png" width="100px;" alt="김세현"/><br /><sub><b>김세현</b></sub><br /><a href="https://github.com/sehxxnee">@sehxxnee</a><br />Frontend
 
